@@ -16,8 +16,7 @@ OSS-101	| Preparatory course in Social Sciences	| 1
 [IGNOU Page](http://ignou.ac.in/ignou/aboutignou/school/socis/programmes/detail/190/2)
 [BCA Programme Guide](http://ignou.ac.in/upload/programme/BCA%20PROGRAMME%20GUIDE%20%20CRC%20%20JULY%202020.pdf)
 
-<div align="center"> First Semester </div>
-
+### First Semester:
 Course Code | Course Name	| Credits
 ---|---|---
 FEG-02 | Foundation course in English -2 | 4
