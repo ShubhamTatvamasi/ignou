@@ -17,12 +17,12 @@ OSS-101	| Preparatory course in Social Sciences	| 1 | :x:
 [BCA Programme Guide](http://ignou.ac.in/upload/programme/BCA%20PROGRAMME%20GUIDE%20%20CRC%20%20JULY%202020.pdf)
 
 ### First Semester:
-Course Code | Course Name	| Credits
----|---|---
+Course Code | Course Name	| Credits | Selected
+---|---|---|---
 FEG-02 | Foundation course in English -2 | 4
 ECO-01 | Business Organization | 4
 BCS-011	| Computer Basics and PC Software	| 3
-BCS-012	| Mathematics	| 4
+BCS-012	| Mathematics	| 4 | :heavy_check_mark:
 BCSL-013 | Computer Basics and PC Software Lab | 2
 
 ### Second Semester:
