@@ -9,7 +9,7 @@ Course Code | Course Name | Credits | Selected
 ---|---|---|---
 PCO-1	| Preparatory Course in Commerce	| 1 | :heavy_check_mark:
 OMT-101	| Preparatory course in General Mathematics	| 1 | :heavy_check_mark:
-OSS-101	| Preparatory course in Social Sciences	| 1 |
+OSS-101	| Preparatory course in Social Sciences	| 1 | :x:
 
 ### Bachelor of Computer Applications (BCA)
 
