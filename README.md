@@ -2,9 +2,8 @@
 
 ### Bachelor Preparatory Programme (BPP)
 
-[IGNOU Source Page](http://ignou.ac.in/ignou/aboutignou/school/soss/programmes/detail/145/2)
+[IGNOU Page](http://ignou.ac.in/ignou/aboutignou/school/soss/programmes/detail/145/2)
 [BPP Programme Guide](http://ignou.ac.in/upload/programme/B%20BPP%20Prog%20Guide-E.pdf)
-
 
 Course Code | Course Name | Credits
 ---|---|---
@@ -14,8 +13,7 @@ OSS-101	| Preparatory course in Social Sciences	| 1
 
 ### Bachelor of Computer Applications (BCA)
 
-http://ignou.ac.in/ignou/aboutignou/school/socis/programmes/detail/190/2
-
+[IGNOU Page](http://ignou.ac.in/ignou/aboutignou/school/socis/programmes/detail/190/2)
 [BCA Programme Guide](http://ignou.ac.in/upload/programme/BCA%20PROGRAMME%20GUIDE%20%20CRC%20%20JULY%202020.pdf)
 
 ### First Semester:
