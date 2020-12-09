@@ -79,6 +79,62 @@ MCS-022 | Operating System Concepts and Networking Management	| 4
 BCSL-063 | Operating System Concepts and Networking Management Lab | 1
 BCSP-064 | Project | 8
 
+### Master of Computer Applications (MCA)
 
+[MCA IGNOU Page](http://www.ignou.ac.in/ignou/aboutignou/school/socis/programmes/detail/174/2)
+[MCA Programme Guide](http://www.ignou.ac.in/upload/programme/MCA%20Prog%20Guide%20July%202020.pdf)
 
+### First Semester:
+Course Code | Course Name	| Credits
+---|---|---
+MCS-011	| Problem Solving and Programming	| 3
+MCS-012	| Computer Organisation and Assembly Language Programming	| 4
+MCS-013	| Discrete Mathematics | 2
+MCS-014	| Systems Analysis and Design	| 3
+MCS-015	| Communication Skills | 2
+MCSL-016 | Internet Concepts and Web design (Lab Course) | 2
+MCSL-017 | Lab (C and Assembly Language Programming) (Lab Course)	| 2
+
+### Second Semester:
+Course Code | Course Name	| Credits
+---|---|---
+MCS-021	| Data and File structures | 4
+MCS-022	| Operating System concepts	| 4
+MCS-023	| Introduction to Database Management Systems	| 3
+MCS-024	| Object Oriented Technology and Java Programming	| 3
+MCSL-025 | Lab (Data Structures using C, WINDOWS 2000, LINUX / UNIX, Java and MS ACCESS, My SQL) | 4
+
+### Third Semester:
+Course Code | Course Name | Credits
+---|---|---
+MCS-031	| Design and Analysis of Algorithms	| 4
+MCS-032	| Object Oriented Analysis and Design | 3
+MCS-033	| Advanced Discrete Mathematics	| 2
+MCS-034	| Software Engineering | 3
+MCS-035	| Accountancy and Financial Management | 3
+MCSL-036 | Laboratory Course (For Object Oriented Analysis and Design, Software Engineering and Accountancy and Financial Management)	| 3
+
+### Fourth Semester:
+Course Code | Course Name	| Credits
+---|---|---
+MCS-041	| Operating Systems	| 4
+MCS-042	| Data Communication and Networks	| 4
+MCS-043	| Advanced Database Management Systems | 4
+MCS-044	| Mini Project | 4
+MCSL-045 | UNIX and DBMS LAB | 2
+
+### Fifth Semester:
+Course Code | Course Name	| Credits
+---|---|---
+MCS-051	| Advanced Internet Technologies | 3
+MCS-053	| Computer Graphics and Multimedia | 4
+MCSL-054 | Laboratory Course (Advanced Internet Technologies & Computer Graphics and Multimedia) | 2
+MCSE-003 | Artificial Intelligence and Knowledge Management | 3
+MCSE-004 | Numerical and Statistical Computing | 3
+MCSE-011 | Parallel Computing	| 3
+
+### Sixth Semester:
+Course Code | Course Name	| Credits
+---|---|---
+MCSP-060 | Project | 16
 
