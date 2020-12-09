@@ -2,8 +2,7 @@
 
 ### Bachelor Preparatory Programme (BPP)
 
-http://ignou.ac.in/ignou/aboutignou/school/soss/programmes/detail/145/2
-
+[IGNOU Source Page](http://ignou.ac.in/ignou/aboutignou/school/soss/programmes/detail/145/2)
 [BPP Programme Guide](http://ignou.ac.in/upload/programme/B%20BPP%20Prog%20Guide-E.pdf)
 
 
