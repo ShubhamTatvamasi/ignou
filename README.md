@@ -11,6 +11,8 @@ PCO-1	| Preparatory Course in Commerce	| 1 | :heavy_check_mark:
 OMT-101	| Preparatory course in General Mathematics	| 1 | :heavy_check_mark:
 OSS-101	| Preparatory course in Social Sciences	| 1 | :x:
 
+---
+
 ### Bachelor of Computer Applications (BCA)
 
 [BCA IGNOU Page](http://ignou.ac.in/ignou/aboutignou/school/socis/programmes/detail/190/2)
@@ -78,6 +80,8 @@ BCS-062	| E-Commerce | 2
 MCS-022 | Operating System Concepts and Networking Management	| 4
 BCSL-063 | Operating System Concepts and Networking Management Lab | 1
 BCSP-064 | Project | 8
+
+---
 
 ### Master of Computer Applications (MCA)
 
